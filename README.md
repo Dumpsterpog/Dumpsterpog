@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react , node.js , express.js , python , webdev**
 
-- 📫 How to reach me **atharvat2006@gmail.com**
+- 📫 How to reach me : **atharvat2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
