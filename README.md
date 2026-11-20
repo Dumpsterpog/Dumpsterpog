@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **dsa, database integration, mobile applications, core software development**
 
-- 👨‍💻 All of my projects are available on [my github](my github)
+- 👨‍💻 All of my projects are available on my github
 
 - 💬 Ask me about **react , node.js , express.js , python , webdev**
 
